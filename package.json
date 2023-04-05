@@ -16,6 +16,8 @@
     "jsonwebtoken": "^9.0.0",
     "lowdb": "^1.0.0",
     "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.3",
     "morgan": "~1.9.1",
     "shortid": "^2.2.16"
   }
